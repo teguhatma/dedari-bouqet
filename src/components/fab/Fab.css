@@ -1,0 +1,11 @@
+.fab-container {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    flex-direction: column-reverse;
+    position: fixed;
+    right: 2em;
+    bottom: 2em;
+    max-height: 52px;
+  }
